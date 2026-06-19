@@ -1,0 +1,17 @@
+Shopping Cart
+Display list of Products.
+Each product will have multiple options and each have can have different quantities/weight and price eg.
+Product: Biotique soap
+Aloevera - Pack of 4 — 500
+	   Pack of 2 — 250
+Sandalwood -    Pack of 6
+		Pack of 4
+		Pack of 2
+Rose -  Pack of 2
+	Pack of 4
+	Pack of 12
+
+Customer logs in, buys a product, Adds product to cart along with quantity and checks out with payment and selecting the delivery address 
+
+
+

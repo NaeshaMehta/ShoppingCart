@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Product.class
+com\example\demo\ProductVariation.class
+com\example\demo\ProductRepository.class
+com\example\demo\ProductController.class
+com\example\demo\ProductSize.class

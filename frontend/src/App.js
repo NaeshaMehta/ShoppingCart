@@ -22,7 +22,7 @@ function App() {
         <div className="container">
           <div className="row">
             {products.map((product) => (
-              <div key={product.id} className="col-12 col-sm-6 col-md-4 mb-4">
+              <div key={product.id} className="col-6 col-sm-4 col-md-2 mb-4">
                 <ProductCard product={product} />
               </div>
             ))}

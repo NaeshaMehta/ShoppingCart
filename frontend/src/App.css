@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.description {
+  min-height: 3rem;
+  overflow-wrap: anywhere;
+}
+
+.card .form-select {
+  min-width: 0;
+}
